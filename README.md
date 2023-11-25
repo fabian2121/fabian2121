@@ -1,14 +1,14 @@
 <h1 align="center">Hola 🤟 , soy Silvano Fabián Padilla Lozano <a> <br> <img aling="left" width="150" heigth="150"
 src="https://github.com/SilvanoFabianPadilla/SilvanoFabianPadilla/blob/41405c889be3d40f1bb77f10c4450e6d5cf3e43c/hola.gif" /></a></h1>
 
-<h3 align="center">Soy Estudiante de Ingeniería en Computación UNAM 💻💙</h3>
-<p> <li> Podras encontrar algunos proyectos escolares y personales. 📚 <p>
-<p> <li> Actualmente estoy aprendiendo todo lo que sea relacionado en programación. 🚀 <p>
-<p> <li> Estoy interesado en tecnologías frontend, Backend, Base de datos y Ciberseguridad 💻<p>
-<p> <li> Puedes enviarme un correo por aquí: fabian.sfpl@gmail.com 📫<p>
+<h3 align="center">💻💙 Soy Estudiante de Ingeniería en Computación UNAM.</h3>
+<p> <li> 📚 Podras encontrar algunos proyectos escolares y personales.<p>
+<p> <li> 🚀 Actualmente estoy aprendiendo todo lo que sea relacionado en programación.<p>
+<p> <li> 💻 Estoy interesado en tecnologías frontend, Backend, Base de datos y Ciberseguridad <p>
+<p> <li> 📫 Puedes enviarme un correo por aquí: fabian.sfpl@gmail.com <p>
   
-<p> <li> Actualmente estoy aprendiendo: **Java, Spring**<p>
-<p> <li>💻Todos mis proyectos están disponibles en: [https://silvanofabianpadilla.github.io/Portafolio/](https://silvanofabianpadilla.github.io/Portafolio/) <p>
+<p> <li> 👾 Actualmente estoy aprendiendo: **Java, Spring**<p>
+<p> <li> 💻 Todos mis proyectos están disponibles en: [https://silvanofabianpadilla.github.io/Portafolio/](https://silvanofabianpadilla.github.io/Portafolio/) <p>
 
 <div align="center">
 <a href="https://www.credly.com/badges/e80e5734-3fb7-49c7-9cb6-3aa185800df7/public_url" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/fabian2121/fabian2121/blob/9e6d2f460f0bdaabf834ef55976af74dafb2bdc3/python-essentials-1.1.png"> 
