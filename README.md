@@ -6,7 +6,9 @@ src="https://github.com/SilvanoFabianPadilla/SilvanoFabianPadilla/blob/41405c889
 <p> <li> Actualmente estoy aprendiendo todo lo que sea relacionado en programación. 🚀 <p>
 <p> <li> Estoy interesado en tecnologías frontend, Backend, Base de datos y Ciberseguridad 💻<p>
 <p> <li> Puedes enviarme un correo por aquí: fabian.sfpl@gmail.com 📫<p>
-- Actualmente estoy aprendiendo: **Java, Spring**- 👨 💻 Todos mis proyectos están disponibles en: [https://silvanofabianpadilla.github.io/Portafolio/](https://silvanofabianpadilla.github.io/Portafolio/)
+  
+- Actualmente estoy aprendiendo: **Java, Spring**
+-💻Todos mis proyectos están disponibles en: [https://silvanofabianpadilla.github.io/Portafolio/](https://silvanofabianpadilla.github.io/Portafolio/)
 
 <div align="center">
 <a href="https://www.credly.com/badges/e80e5734-3fb7-49c7-9cb6-3aa185800df7/public_url" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/fabian2121/fabian2121/blob/9e6d2f460f0bdaabf834ef55976af74dafb2bdc3/python-essentials-1.1.png"> 
