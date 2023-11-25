@@ -1,10 +1,10 @@
 <h1 align="center">Hola 🤟 , soy Silvano Fabián Padilla Lozano <a> <br> <img aling="left" width="150" heigth="150"
 src="https://github.com/SilvanoFabianPadilla/SilvanoFabianPadilla/blob/41405c889be3d40f1bb77f10c4450e6d5cf3e43c/hola.gif" /></a></h1>
 
-<h3 align="center">💻💙 Soy Estudiante de Ingeniería en Computación UNAM.</h3>
-<p> <li> 📚 Podras encontrar algunos proyectos escolares y personales.<p>
-<p> <li> 🚀 Actualmente estoy aprendiendo todo lo que sea relacionado en programación.<p>
-<p> <li> 💻 Estoy interesado en tecnologías frontend, Backend, Base de datos y Ciberseguridad <p>
+<h3 align="center">💻💙 Soy Estudiante de Ingeniería en Computación UNAM</h3>
+<p> <li> 📚 Podras encontrar algunos proyectos escolares y personales<p>
+<p> <li> 🚀 Actualmente estoy aprendiendo todo lo que sea relacionado en programación<p>
+<p> <li> 💻 Estoy interesado en tecnologías frontend, Backend, Base de datos y Ciberseguridad<p>
   
 <p> <li> 👾 Actualmente estoy aprendiendo: Java, Spring<p>
 <p> <li> 📫 Cómo llegar a mi: fabian.sfpl@gmail.com<p>
