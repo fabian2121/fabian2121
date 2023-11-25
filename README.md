@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Silvano Fabian Padilla Lozano <a> <br> <img aling="left" width="150" heigth="150"
+<h1 align="center">Hola 🤟 , soy Silvano Fabián Padilla Lozano <a> <br> <img aling="left" width="150" heigth="150"
 src="https://github.com/SilvanoFabianPadilla/SilvanoFabianPadilla/blob/41405c889be3d40f1bb77f10c4450e6d5cf3e43c/hola.gif" /></a></h1>
 
 <h3 align="center">Estudiante de Ingeniería en Computación UNAM 💻💙</h3>
